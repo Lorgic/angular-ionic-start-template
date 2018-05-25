@@ -1,6 +1,6 @@
 {
   "name": "todoApp",
-  "app_id": "",
+  "app_id": "j.v.todoandreward",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
